@@ -1,0 +1,139 @@
+{
+  "safari_plan": {
+    "selected_locations": [
+      "Masai Mara, Kenya",
+      "Serengeti, Tanzania",
+      "Kruger NP, South Africa",
+      "Samburu, Kenya"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "location": "Masai Mara, Kenya",
+        "country": "Kenya",
+        "coordinates": [
+          -1.4066,
+          34.9066
+        ],
+        "cost": 800,
+        "estimated_lions": 15,
+        "description": "Famous for big cat sightings and great migration",
+        "story_segment": "In Masai Mara, we witness a pride of 15 lions resting under acacia trees. The dominant male watches over his family while cubs play nearby."
+      },
+      {
+        "day": 2,
+        "location": "Serengeti, Tanzania",
+        "country": "Tanzania",
+        "coordinates": [
+          -2.3333,
+          34.8333
+        ],
+        "cost": 900,
+        "estimated_lions": 12,
+        "description": "Vast plains with high lion population",
+        "story_segment": "The Serengeti plains reveal a hunting party of 12 lions strategizing their approach to a wildebeest herd at sunset."
+      },
+      {
+        "day": 3,
+        "location": "Kruger NP, South Africa",
+        "country": "South Africa",
+        "coordinates": [
+          -24.0,
+          31.5
+        ],
+        "cost": 700,
+        "estimated_lions": 10,
+        "description": "Excellent infrastructure and guaranteed sightings",
+        "story_segment": "Kruger National Park offers close encounters with a pride of 10 lions, including impressive males with dark manes."
+      },
+      {
+        "day": 4,
+        "location": "Samburu, Kenya",
+        "country": "Kenya",
+        "coordinates": [
+          0.5255,
+          37.5914
+        ],
+        "cost": 600,
+        "estimated_lions": 6,
+        "description": "Less crowded with unique wildlife",
+        "story_segment": "Samburu reveals a smaller pride of 6 lions, including the rare desert-adapted lions with unique behaviors."
+      }
+    ],
+    "total_cost": 3000,
+    "total_estimated_lions": 43,
+    "budget_remaining": 0.0,
+    "optimization_status": "Optimal",
+    "days_required": 4
+  },
+  "safari_story": "The African Lion Safari Adventure\n\nWith a budget of $3,000.0, our journey begins in search of the magnificent African lion across the most renowned wildlife destinations.\n\n**Day 1: Arrival in Masai Mara, Kenya**\nThe African sun welcomes us as we begin our quest. The air is filled with anticipation and the distant calls of wildlife. Our experienced guides prepare us for the adventures ahead, sharing stories of lion prides and their territories.\n\n\n**Day 1: Exploring Masai Mara, Kenya**\nIn Masai Mara, we witness a pride of 15 lions resting under acacia trees. The dominant male watches over his family while cubs play nearby.\n\n\n**Day 2: Exploring Serengeti, Tanzania**\nThe Serengeti plains reveal a hunting party of 12 lions strategizing their approach to a wildebeest herd at sunset.\n\n\n**Day 3: Exploring Kruger NP, South Africa**\nKruger National Park offers close encounters with a pride of 10 lions, including impressive males with dark manes.\n\n\n**Day 4: Exploring Samburu, Kenya**\nSamburu reveals a smaller pride of 6 lions, including the rare desert-adapted lions with unique behaviors.\n\n\n**The Grand Finale**\nOver 4 incredible days, we've witnessed approximately 43 lions in their natural habitats. From majestic males surveying their domains to playful cubs learning to hunt, each encounter has been unforgettable.\n\nThis journey has been more than a safari - it's been a connection with nature's most magnificent predators and a reminder of the importance of conservation efforts across Africa.\n\nTotal lions encountered: 43\nDestinations visited: 4\nMemories made: Countless\n",
+  "budget_analysis": {
+    "original_budget": 3000.0,
+    "total_cost": 3000,
+    "remaining_budget": 0.0,
+    "budget_usage_percent": 100.0,
+    "cost_per_lion": 69.77
+  },
+  "itinerary_details": [
+    {
+      "day": 1,
+      "location": "Masai Mara, Kenya",
+      "country": "Kenya",
+      "coordinates": [
+        -1.4066,
+        34.9066
+      ],
+      "cost": 800,
+      "estimated_lions": 15,
+      "description": "Famous for big cat sightings and great migration",
+      "story_segment": "In Masai Mara, we witness a pride of 15 lions resting under acacia trees. The dominant male watches over his family while cubs play nearby."
+    },
+    {
+      "day": 2,
+      "location": "Serengeti, Tanzania",
+      "country": "Tanzania",
+      "coordinates": [
+        -2.3333,
+        34.8333
+      ],
+      "cost": 900,
+      "estimated_lions": 12,
+      "description": "Vast plains with high lion population",
+      "story_segment": "The Serengeti plains reveal a hunting party of 12 lions strategizing their approach to a wildebeest herd at sunset."
+    },
+    {
+      "day": 3,
+      "location": "Kruger NP, South Africa",
+      "country": "South Africa",
+      "coordinates": [
+        -24.0,
+        31.5
+      ],
+      "cost": 700,
+      "estimated_lions": 10,
+      "description": "Excellent infrastructure and guaranteed sightings",
+      "story_segment": "Kruger National Park offers close encounters with a pride of 10 lions, including impressive males with dark manes."
+    },
+    {
+      "day": 4,
+      "location": "Samburu, Kenya",
+      "country": "Kenya",
+      "coordinates": [
+        0.5255,
+        37.5914
+      ],
+      "cost": 600,
+      "estimated_lions": 6,
+      "description": "Less crowded with unique wildlife",
+      "story_segment": "Samburu reveals a smaller pride of 6 lions, including the rare desert-adapted lions with unique behaviors."
+    }
+  ],
+  "timestamp": "2025-11-12 12:15:13",
+  "recommendations": [
+    "Book lodges in advance during peak season",
+    "Hire experienced local guides for best sightings",
+    "Carry binoculars and good camera equipment",
+    "Respect wildlife viewing distances",
+    "Support local conservation efforts"
+  ]
+}

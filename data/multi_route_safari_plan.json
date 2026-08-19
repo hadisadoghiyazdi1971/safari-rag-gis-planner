@@ -1,0 +1,423 @@
+{
+  "start_location": "Nairobi, Kenya",
+  "budget": 3000.0,
+  "route_options": [
+    {
+      "route_type": "Maximum Lions",
+      "selected_locations": [
+        "Masai Mara, Kenya",
+        "Kruger NP, South Africa",
+        "Samburu, Kenya",
+        "Ngorongoro, Tanzania"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "location": "Masai Mara, Kenya",
+          "country": "Kenya",
+          "coordinates": [
+            -1.4066,
+            34.9066
+          ],
+          "cost": 800,
+          "estimated_lions": 15,
+          "description": "Famous for big cat sightings and great migration",
+          "best_season": "July-October",
+          "highlights": "Big Five, Great Migration, Maasai Culture"
+        },
+        {
+          "day": 2,
+          "location": "Kruger NP, South Africa",
+          "country": "South Africa",
+          "coordinates": [
+            -24.0,
+            31.5
+          ],
+          "cost": 700,
+          "estimated_lions": 10,
+          "description": "Excellent infrastructure and guaranteed sightings",
+          "best_season": "May-September",
+          "highlights": "Self-Drive Safaris, Luxury Lodges, Rhino Sightings"
+        },
+        {
+          "day": 3,
+          "location": "Samburu, Kenya",
+          "country": "Kenya",
+          "coordinates": [
+            0.5255,
+            37.5914
+          ],
+          "cost": 600,
+          "estimated_lions": 6,
+          "description": "Less crowded with unique wildlife",
+          "best_season": "January-March & July-October",
+          "highlights": "Special Five, Desert Adaptation, Cultural Villages"
+        },
+        {
+          "day": 4,
+          "location": "Ngorongoro, Tanzania",
+          "country": "Tanzania",
+          "coordinates": [
+            -3.1874,
+            35.5762
+          ],
+          "cost": 850,
+          "estimated_lions": 14,
+          "description": "Crater ecosystem with high density",
+          "best_season": "June-September",
+          "highlights": "World Heritage Site, High Density, Stunning Views"
+        }
+      ],
+      "total_cost": 2950,
+      "total_estimated_lions": 45,
+      "days_required": 4,
+      "name": "Maximum Lions",
+      "color": "green"
+    },
+    {
+      "route_type": "Diverse Experience",
+      "selected_locations": [
+        "Masai Mara, Kenya",
+        "Ngorongoro, Tanzania",
+        "Kruger NP, South Africa"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "location": "Masai Mara, Kenya",
+          "country": "Kenya",
+          "coordinates": [
+            -1.4066,
+            34.9066
+          ],
+          "cost": 800,
+          "estimated_lions": 15,
+          "description": "Famous for big cat sightings and great migration",
+          "best_season": "July-October",
+          "highlights": "Big Five, Great Migration, Maasai Culture"
+        },
+        {
+          "day": 2,
+          "location": "Ngorongoro, Tanzania",
+          "country": "Tanzania",
+          "coordinates": [
+            -3.1874,
+            35.5762
+          ],
+          "cost": 850,
+          "estimated_lions": 14,
+          "description": "Crater ecosystem with high density",
+          "best_season": "June-September",
+          "highlights": "World Heritage Site, High Density, Stunning Views"
+        },
+        {
+          "day": 3,
+          "location": "Kruger NP, South Africa",
+          "country": "South Africa",
+          "coordinates": [
+            -24.0,
+            31.5
+          ],
+          "cost": 700,
+          "estimated_lions": 10,
+          "description": "Excellent infrastructure and guaranteed sightings",
+          "best_season": "May-September",
+          "highlights": "Self-Drive Safaris, Luxury Lodges, Rhino Sightings"
+        }
+      ],
+      "total_cost": 2350,
+      "total_estimated_lions": 39,
+      "days_required": 3,
+      "name": "Diverse Experience",
+      "color": "red"
+    },
+    {
+      "route_type": "Budget Friendly",
+      "selected_locations": [
+        "Masai Mara, Kenya",
+        "Ngorongoro, Tanzania",
+        "Kruger NP, South Africa",
+        "Samburu, Kenya"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "location": "Masai Mara, Kenya",
+          "country": "Kenya",
+          "coordinates": [
+            -1.4066,
+            34.9066
+          ],
+          "cost": 800,
+          "estimated_lions": 15,
+          "description": "Famous for big cat sightings and great migration",
+          "best_season": "July-October",
+          "highlights": "Big Five, Great Migration, Maasai Culture"
+        },
+        {
+          "day": 2,
+          "location": "Ngorongoro, Tanzania",
+          "country": "Tanzania",
+          "coordinates": [
+            -3.1874,
+            35.5762
+          ],
+          "cost": 850,
+          "estimated_lions": 14,
+          "description": "Crater ecosystem with high density",
+          "best_season": "June-September",
+          "highlights": "World Heritage Site, High Density, Stunning Views"
+        },
+        {
+          "day": 3,
+          "location": "Kruger NP, South Africa",
+          "country": "South Africa",
+          "coordinates": [
+            -24.0,
+            31.5
+          ],
+          "cost": 700,
+          "estimated_lions": 10,
+          "description": "Excellent infrastructure and guaranteed sightings",
+          "best_season": "May-September",
+          "highlights": "Self-Drive Safaris, Luxury Lodges, Rhino Sightings"
+        },
+        {
+          "day": 4,
+          "location": "Samburu, Kenya",
+          "country": "Kenya",
+          "coordinates": [
+            0.5255,
+            37.5914
+          ],
+          "cost": 600,
+          "estimated_lions": 6,
+          "description": "Less crowded with unique wildlife",
+          "best_season": "January-March & July-October",
+          "highlights": "Special Five, Desert Adaptation, Cultural Villages"
+        }
+      ],
+      "total_cost": 2950,
+      "total_estimated_lions": 45,
+      "days_required": 4,
+      "name": "Budget Friendly",
+      "color": "blue"
+    },
+    {
+      "route_type": "Classic Safari",
+      "selected_locations": [
+        "Masai Mara, Kenya",
+        "Samburu, Kenya"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "location": "Masai Mara, Kenya",
+          "country": "Kenya",
+          "coordinates": [
+            -1.4066,
+            34.9066
+          ],
+          "cost": 800,
+          "estimated_lions": 15,
+          "description": "Famous for big cat sightings and great migration",
+          "best_season": "July-October",
+          "highlights": "Big Five, Great Migration, Maasai Culture"
+        },
+        {
+          "day": 2,
+          "location": "Samburu, Kenya",
+          "country": "Kenya",
+          "coordinates": [
+            0.5255,
+            37.5914
+          ],
+          "cost": 600,
+          "estimated_lions": 6,
+          "description": "Less crowded with unique wildlife",
+          "best_season": "January-March & July-October",
+          "highlights": "Special Five, Desert Adaptation, Cultural Villages"
+        }
+      ],
+      "total_cost": 1400,
+      "total_estimated_lions": 21,
+      "days_required": 2,
+      "name": "Classic Safari",
+      "color": "purple"
+    }
+  ],
+  "timestamp": "2025-11-12 12:32:10",
+  "recommendations": {
+    "best_value": {
+      "route_type": "Diverse Experience",
+      "selected_locations": [
+        "Masai Mara, Kenya",
+        "Ngorongoro, Tanzania",
+        "Kruger NP, South Africa"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "location": "Masai Mara, Kenya",
+          "country": "Kenya",
+          "coordinates": [
+            -1.4066,
+            34.9066
+          ],
+          "cost": 800,
+          "estimated_lions": 15,
+          "description": "Famous for big cat sightings and great migration",
+          "best_season": "July-October",
+          "highlights": "Big Five, Great Migration, Maasai Culture"
+        },
+        {
+          "day": 2,
+          "location": "Ngorongoro, Tanzania",
+          "country": "Tanzania",
+          "coordinates": [
+            -3.1874,
+            35.5762
+          ],
+          "cost": 850,
+          "estimated_lions": 14,
+          "description": "Crater ecosystem with high density",
+          "best_season": "June-September",
+          "highlights": "World Heritage Site, High Density, Stunning Views"
+        },
+        {
+          "day": 3,
+          "location": "Kruger NP, South Africa",
+          "country": "South Africa",
+          "coordinates": [
+            -24.0,
+            31.5
+          ],
+          "cost": 700,
+          "estimated_lions": 10,
+          "description": "Excellent infrastructure and guaranteed sightings",
+          "best_season": "May-September",
+          "highlights": "Self-Drive Safaris, Luxury Lodges, Rhino Sightings"
+        }
+      ],
+      "total_cost": 2350,
+      "total_estimated_lions": 39,
+      "days_required": 3,
+      "name": "Diverse Experience",
+      "color": "red"
+    },
+    "most_diverse": {
+      "route_type": "Maximum Lions",
+      "selected_locations": [
+        "Masai Mara, Kenya",
+        "Kruger NP, South Africa",
+        "Samburu, Kenya",
+        "Ngorongoro, Tanzania"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "location": "Masai Mara, Kenya",
+          "country": "Kenya",
+          "coordinates": [
+            -1.4066,
+            34.9066
+          ],
+          "cost": 800,
+          "estimated_lions": 15,
+          "description": "Famous for big cat sightings and great migration",
+          "best_season": "July-October",
+          "highlights": "Big Five, Great Migration, Maasai Culture"
+        },
+        {
+          "day": 2,
+          "location": "Kruger NP, South Africa",
+          "country": "South Africa",
+          "coordinates": [
+            -24.0,
+            31.5
+          ],
+          "cost": 700,
+          "estimated_lions": 10,
+          "description": "Excellent infrastructure and guaranteed sightings",
+          "best_season": "May-September",
+          "highlights": "Self-Drive Safaris, Luxury Lodges, Rhino Sightings"
+        },
+        {
+          "day": 3,
+          "location": "Samburu, Kenya",
+          "country": "Kenya",
+          "coordinates": [
+            0.5255,
+            37.5914
+          ],
+          "cost": 600,
+          "estimated_lions": 6,
+          "description": "Less crowded with unique wildlife",
+          "best_season": "January-March & July-October",
+          "highlights": "Special Five, Desert Adaptation, Cultural Villages"
+        },
+        {
+          "day": 4,
+          "location": "Ngorongoro, Tanzania",
+          "country": "Tanzania",
+          "coordinates": [
+            -3.1874,
+            35.5762
+          ],
+          "cost": 850,
+          "estimated_lions": 14,
+          "description": "Crater ecosystem with high density",
+          "best_season": "June-September",
+          "highlights": "World Heritage Site, High Density, Stunning Views"
+        }
+      ],
+      "total_cost": 2950,
+      "total_estimated_lions": 45,
+      "days_required": 4,
+      "name": "Maximum Lions",
+      "color": "green"
+    },
+    "budget_friendly": {
+      "route_type": "Classic Safari",
+      "selected_locations": [
+        "Masai Mara, Kenya",
+        "Samburu, Kenya"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "location": "Masai Mara, Kenya",
+          "country": "Kenya",
+          "coordinates": [
+            -1.4066,
+            34.9066
+          ],
+          "cost": 800,
+          "estimated_lions": 15,
+          "description": "Famous for big cat sightings and great migration",
+          "best_season": "July-October",
+          "highlights": "Big Five, Great Migration, Maasai Culture"
+        },
+        {
+          "day": 2,
+          "location": "Samburu, Kenya",
+          "country": "Kenya",
+          "coordinates": [
+            0.5255,
+            37.5914
+          ],
+          "cost": 600,
+          "estimated_lions": 6,
+          "description": "Less crowded with unique wildlife",
+          "best_season": "January-March & July-October",
+          "highlights": "Special Five, Desert Adaptation, Cultural Villages"
+        }
+      ],
+      "total_cost": 1400,
+      "total_estimated_lions": 21,
+      "days_required": 2,
+      "name": "Classic Safari",
+      "color": "purple"
+    }
+  }
+}

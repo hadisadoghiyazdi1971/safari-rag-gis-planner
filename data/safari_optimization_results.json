@@ -1,0 +1,10 @@
+{
+  "selected_locations": [
+    "Masai Mara, Kenya"
+  ],
+  "total_locations": 1,
+  "total_lion_density": 0.9,
+  "total_cost": 800,
+  "status": "Optimal",
+  "objective_value": 0.9
+}
